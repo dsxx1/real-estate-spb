@@ -8,12 +8,12 @@
 ## 📊 Дашборд
 
 ### Аналитика рынка недвижимости
-![Аналитика рынка](screenshots/dashboard_market_analytics.png)
+![Аналитика рынка](dashboard_market_analytics.png)
 
 ### Детализация рынка
-![Детализация рынка](screenshots/dashboard_market_detail.png)
+![Детализация рынка](dashboard_market_detail.png)
 
-🔗 **[Открыть дашборд в DataLens](https://datalens.yandex.ru/ab1f2h9nad3ou-dashbord-dlya-agentstva-nedvizhimosti)**
+🔗 **[Открыть дашборд в DataLens](https://datalens.yandex/ab1f2h9nad3ou)**
 
 ---
 
