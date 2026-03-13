@@ -22,8 +22,8 @@
 ```
 ├── queries.sql              # SQL-запросы и аналитика
 ├── screenshots/
-│   ├── dashboard_market_analytics.png   # Вкладка «Аналитика рынка»
-│   └── dashboard_market_detail.png      # Вкладка «Детализация рынка»
+├── dashboard_market_analytics.png   # Вкладка «Аналитика рынка»
+├── dashboard_market_detail.png      # Вкладка «Детализация рынка»
 └── README.md
 ```
 
